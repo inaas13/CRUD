@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\inaas.isse\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\inaas.isse\\.nuget\\packages"
+    ]
+  }
+}
